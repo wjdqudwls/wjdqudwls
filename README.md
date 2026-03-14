@@ -56,23 +56,24 @@
 
 <!-- TODO(병진): 프로젝트 추가 시 아래 템플릿 복사해서 사용 -->
 ## 현재 진행중인 프로젝트
----
+
 ### Con-K
 > 현지 창고 특화 글로벌 풀필먼트 플랫폼(WMS/OMS)
 
 - **기간**: 2026.02.27 ~
 - **역할**: 풀스택 개발
 - **기술 스택**: Java, Spring Boot, Spring Security, JWT, JPA, MyBatis, MariaDB, Vue 3, Pinia, Docker, Kubernetes, Jenkins, ArgoCD, AWS S3
+
 ---
 
 ## 지금까지 완료한 프로젝트
----
+
 ### MapLog
 > 위치 기반 기록과 친구 소셜 기능, 실시간 알림을 결합한 소셜 다이어리 서비스
 
 - **기간**: 2026.02.12 ~ 2026.02.27
 - **역할**: 풀스택 개발
-- **기술 스택**: Java, Spring Boot, Spring Security, JWT, JPA, MyBatis, MariaDB, Vue 3, Pinia, Docker, Kubernetes, Jenkins, ArgoCD, AWS S3
+- **기술 스택**: Java, Spring Boot, Spring Security, JWT, JPA, MyBatis, MariaDB, Vue 3, Pinia, Docker, Kubernetes, Jenkins, ArgoCD
 - **주요 구현**: 친구 요청/수락/삭제 기능 구현, SSE 기반 실시간 알림 시스템 구축, EventSource의 JWT 인증 문제 해결 및 관련 테스트/트러블슈팅 문서화
 
 ---
