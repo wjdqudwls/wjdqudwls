@@ -76,7 +76,7 @@
 - **기술 스택**: Java, Spring Boot, Spring Security, JWT, JPA, MyBatis, MariaDB, Vue 3, Pinia, Docker, Kubernetes, Jenkins, ArgoCD
 - **주요 구현**: 친구 요청/수락/삭제 기능 구현, SSE 기반 실시간 알림 시스템 구축, EventSource의 JWT 인증 문제 해결 및 관련 테스트/트러블슈팅 문서화
 
----
+
 
 ### Ideal Type World Cup & Quiz Game
 > 사용자가 직접 월드컵과 퀴즈를 만들고 플레이할 수 있는 인터랙티브 게임 플랫폼
@@ -86,7 +86,7 @@
 - **기술 스택**: Vue 3, Vite, Pinia, Vue Router, Element Plus, Axios, JSON Server
 - **주요 구현**: 홈 화면 및 인기 콘텐츠 UI 구성, 퀴즈 플레이 흐름과 점수/타이머 상태 관리, 검색/필터 및 게임 화면 인터랙션 구현
 
----
+
 
 ### Next Page
 > 여러 사용자가 한 문장씩 이어 쓰며 하나의 소설을 완성하는 실시간 릴레이 소설 플랫폼
@@ -96,7 +96,7 @@
 - **기술 스택**: Java, Spring Boot, Spring Security, JWT, JPA, MyBatis, MariaDB, WebSocket, Vue 3, Spring Cloud Gateway, Eureka, OpenFeign, Resilience4j
 - **주요 구현**: 댓글/대댓글 구조 설계 및 구현, 소설/문장 개추·비추 투표 기능 구현, MSA 전환 과정에서 `reaction-service` 분리 및 내부 API 연동
 
----
+
 
 ### Airline Reservation DB Project
 > 항공권 검색, 비교, 예약, 발권 흐름을 데이터베이스 중심으로 설계한 미니 OTA 프로젝트
@@ -106,7 +106,7 @@
 - **기술 스택**: MariaDB, DataGrip, ERD Cloud, Linux, GitHub
 - **주요 구현**: 요구사항 정리와 데이터 정제 지원, 검색/로그인 관련 SQL 정리, README 및 프로젝트 문서 보강
 
----
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wjdqudwls&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
