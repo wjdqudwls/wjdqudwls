@@ -9,7 +9,7 @@
   Java / Spring Boot 기반 백엔드 개발을 주력으로,<br/>
   Vue.js를 활용한 프론트엔드까지 아우르는 풀스택 개발자입니다.<br/>
   클린한 API 설계와 안정적인 서버 운영에 관심이 많으며,<br/>
-  Docker / Kubernetes / AWS를 활용한 배포 경험을 보유하고 있습니다.
+  Docker / Kubernetes를 활용한 배포 경험을 보유하고 있습니다.
 </p>
 
 <br/>
@@ -47,7 +47,6 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Ngrok](https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -57,29 +56,45 @@
 
 <!-- TODO(병진): 프로젝트 추가 시 아래 템플릿 복사해서 사용 -->
 
-### 프로젝트명 1
-> 한 줄 프로젝트 설명
+### MapLog
+> 위치 기반 기록과 친구 소셜 기능, 실시간 알림을 결합한 소셜 다이어리 서비스
 
-- **기간**: 0000.00 ~ 0000.00
-- **역할**: 백엔드 개발 / 팀장 등
-- **기술 스택**: Java, Spring Boot, MySQL, Docker
-- **주요 구현**: 담당한 핵심 기능 1~3가지
-- **링크**: [GitHub](https://github.com/wjdqudwls/프로젝트명) | [Demo](#)
-
----
-
-### 프로젝트명 2
-> 한 줄 프로젝트 설명
-
-- **기간**: 0000.00 ~ 0000.00
-- **역할**: 풀스택 개발
-- **기술 스택**: Java, Spring Boot, Vue.js, MySQL
-- **주요 구현**: 담당한 핵심 기능 1~3가지
-- **링크**: [GitHub](https://github.com/wjdqudwls/프로젝트명)
+- **기간**: 2026.02.12 ~ 2026.02.27
+- **역할**: 백엔드 개발
+- **기술 스택**: Java, Spring Boot, Spring Security, JWT, JPA, MyBatis, MariaDB, Vue 3, Pinia, Docker, Kubernetes, Jenkins, ArgoCD, AWS S3
+- **주요 구현**: 친구 요청/수락/삭제 기능 구현, SSE 기반 실시간 알림 시스템 구축, EventSource의 JWT 인증 문제 해결 및 관련 테스트/트러블슈팅 문서화
 
 ---
 
-## 📊 GitHub Stats
+### Ideal Type World Cup & Quiz Game
+> 사용자가 직접 월드컵과 퀴즈를 만들고 플레이할 수 있는 인터랙티브 게임 플랫폼
+
+- **기간**: 2026.01.19 ~ 2026.02.05
+- **역할**: 프론트엔드 개발 참여
+- **기술 스택**: Vue 3, Vite, Pinia, Vue Router, Element Plus, Axios, JSON Server
+- **주요 구현**: 홈 화면 및 인기 콘텐츠 UI 구성, 퀴즈 플레이 흐름과 점수/타이머 상태 관리, 검색/필터 및 게임 화면 인터랙션 구현
+
+---
+
+### Next Page
+> 여러 사용자가 한 문장씩 이어 쓰며 하나의 소설을 완성하는 실시간 릴레이 소설 플랫폼
+
+- **기간**: 2025.12.23 ~ 2026.01.16
+- **역할**: 백엔드 개발
+- **기술 스택**: Java, Spring Boot, Spring Security, JWT, JPA, MyBatis, MariaDB, WebSocket, Vue 3, Spring Cloud Gateway, Eureka, OpenFeign, Resilience4j
+- **주요 구현**: 댓글/대댓글 구조 설계 및 구현, 소설/문장 개추·비추 투표 기능 구현, MSA 전환 과정에서 `reaction-service` 분리 및 내부 API 연동
+
+---
+
+### Airline Reservation DB Project
+> 항공권 검색, 비교, 예약, 발권 흐름을 데이터베이스 중심으로 설계한 미니 OTA 프로젝트
+
+- **기간**: 2025.11.12 ~ 2025.11.20
+- **역할**: 기획 및 DB 설계 지원
+- **기술 스택**: MariaDB, DataGrip, ERD Cloud, Linux, GitHub
+- **주요 구현**: 요구사항 정리와 데이터 정제 지원, 검색/로그인 관련 SQL 정리, README 및 프로젝트 문서 보강
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wjdqudwls&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
