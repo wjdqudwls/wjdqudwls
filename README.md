@@ -7,9 +7,9 @@
 <!-- 소개 -->
 <p align="center">
   Java / Spring Boot 기반 백엔드 개발을 주력으로,<br/>
-  React를 활용한 프론트엔드까지 아우르는 풀스택 개발자입니다.<br/>
+  Vue.js를 활용한 프론트엔드까지 아우르는 풀스택 개발자입니다.<br/>
   클린한 API 설계와 안정적인 서버 운영에 관심이 많으며,<br/>
-  Docker / AWS를 활용한 배포 경험을 보유하고 있습니다.
+  Docker / Kubernetes / AWS를 활용한 배포 경험을 보유하고 있습니다.
 </p>
 
 <br/>
@@ -20,26 +20,62 @@
 
 **Backend**
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MSA](https://img.shields.io/badge/MSA-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 **Frontend**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Database**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Infra / DevOps**
+**DevOps & Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Ngrok](https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+<!-- TODO(병진): 프로젝트 추가 시 아래 템플릿 복사해서 사용 -->
+
+### 프로젝트명 1
+> 한 줄 프로젝트 설명
+
+- **기간**: 0000.00 ~ 0000.00
+- **역할**: 백엔드 개발 / 팀장 등
+- **기술 스택**: Java, Spring Boot, MySQL, Docker
+- **주요 구현**: 담당한 핵심 기능 1~3가지
+- **링크**: [GitHub](https://github.com/wjdqudwls/프로젝트명) | [Demo](#)
+
+---
+
+### 프로젝트명 2
+> 한 줄 프로젝트 설명
+
+- **기간**: 0000.00 ~ 0000.00
+- **역할**: 풀스택 개발
+- **기술 스택**: Java, Spring Boot, Vue.js, MySQL
+- **주요 구현**: 담당한 핵심 기능 1~3가지
+- **링크**: [GitHub](https://github.com/wjdqudwls/프로젝트명)
 
 ---
 
